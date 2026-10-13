@@ -121,7 +121,7 @@ SAVE OUTFILE=
 * One representative Test case from each terminal node.
 
 GET
-  FILE='Working Data\New_Students_For_Scoring_unscored.sav'.
+  FILE='Working Data\New_Students_For_Scoring.sav'.
 
 DATASET name Students_For_Scoring WINDOW=FRONT.
 
